@@ -1,0 +1,10 @@
+C:\Users\Windows10\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\bin\Debug\HESAP MAKİNESİ.exe.config
+C:\Users\Windows10\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\bin\Debug\HESAP MAKİNESİ.exe
+C:\Users\Windows10\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\bin\Debug\HESAP MAKİNESİ.pdb
+C:\Users\Windows10\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP MAKİNESİ.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP_MAKİNESİ.Form1.resources
+C:\Users\Windows10\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP_MAKİNESİ.Properties.Resources.resources
+C:\Users\Windows10\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP MAKİNESİ.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP MAKİNESİ.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP MAKİNESİ.exe
+C:\Users\Windows10\source\repos\HESAP MAKİNESİ\HESAP MAKİNESİ\obj\Debug\HESAP MAKİNESİ.pdb
